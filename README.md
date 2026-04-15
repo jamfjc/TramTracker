@@ -49,6 +49,8 @@ Input: Output:
 
 Station boardings: 3, 7, 5, 3 — most boardings at station 2 → total 18, station 2
 
+<img width="487" height="203" alt="image" src="https://github.com/user-attachments/assets/0be9ce92-ba97-4afe-bfdc-67dc2ad7f740" />
+
 ---
 
 ## Project Structure
